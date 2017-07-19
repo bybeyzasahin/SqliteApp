@@ -1,3 +1,2 @@
-Fragment tutorial 
-Learning to create fragments as a first step. 
-The interface has two fragments with equal fields.
+A simple application made through Android Studio.
+We have a message box and a send button.
