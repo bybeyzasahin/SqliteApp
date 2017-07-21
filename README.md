@@ -1,5 +1,4 @@
-BASIC:
-Creating a Fragment
-(Step 1) Create a Fragment Class.
-(Step 2) Add a Fragment to an Activity using XML.
-Screen with two fragments, gray and lila.
+Saving Key-Value Sets 
+(Step 1) Get a Handle to a SharedPreferences 
+(Step 2) Write to Shared Preferences 
+(Step 3) Read from Shared Preferences

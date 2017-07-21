@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Saving Key-Value Sets</string>
+    <string name="edit_message">word TR</string>
+    <string name="edit_message2">word EN</string>
+</resources>
