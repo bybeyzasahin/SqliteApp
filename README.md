@@ -1,10 +1,15 @@
-Part1: 
-Building a Flexible UI
-(Step 1) Add a Fragment to an Activity at Runtime 
-(Step 2) Replace One Fragment with Another 
+Saving Data in SQL Databases
 
-Part2:
-Communicating with Other Fragments
-(Step 1) Define an Interface 
-(Step 2) Implement the Interface 
-(Step 3) Deliver a Message to a Fragment
+Basic CRUD operations in Android Studio
+
+1. Define a Schema and Contract
+
+2. Create a Database Using a SQL Helper
+
+3. Put Information into a Database
+
+4. Read Information from a Database
+
+5. Delete Information from a Database
+
+6. Update a Database
